@@ -74,22 +74,23 @@ print("RMSE= ",rmse)
 */
 ```
 
+# Head and Tail
+![Screenshot 2024-09-14 154846](https://github.com/user-attachments/assets/a9f319a1-c104-4c7f-aead-232905744783)
+# X and Y
+![Screenshot 2024-10-19 173916](https://github.com/user-attachments/assets/0b027f04-0a68-4934-92ab-a00e141f204a)
 
-## Output:
-![image](https://github.com/user-attachments/assets/f8b94176-f7c8-444b-b67b-b1b679af64f7)
-![image](https://github.com/user-attachments/assets/a7a3802b-d4b1-48d1-9526-6bc97d784b87)
-![image](https://github.com/user-attachments/assets/2ea20f5f-8455-4037-8999-3edada69a9e2)
-![image](https://github.com/user-attachments/assets/a2b3f7c0-4e83-47fe-b9f5-82db5b8131c2)
-![image](https://github.com/user-attachments/assets/adc5f0d6-c0ba-4cc5-9ce1-3bc13a5faf13)
-![image](https://github.com/user-attachments/assets/76da8792-b4dc-47aa-b6f6-34b4630d1980)
-![image](https://github.com/user-attachments/assets/b68c688b-35c6-4181-8c87-1dc8fba8f604)
-![image](https://github.com/user-attachments/assets/7385981a-dacc-4989-909a-d1012e9599be)
-![image](https://github.com/user-attachments/assets/19831476-0423-4764-83af-0d4da74804af)
-![image](https://github.com/user-attachments/assets/21aa32c3-29f6-4e10-973b-d13cad4a928b)
-![image](https://github.com/user-attachments/assets/92c19276-8378-44d1-8acf-3b5ee00e01da)
+![Screenshot 2024-10-19 173929](https://github.com/user-attachments/assets/eb01b2e1-f76d-49f7-80e4-2c3462f4c11a)
+# Training data
+![Screenshot 2024-09-14 154930](https://github.com/user-attachments/assets/608786a8-45c5-4bf4-b022-9a34d9bde8f1)
 
+# Plot for training set
+![Screenshot 2024-09-14 154950](https://github.com/user-attachments/assets/5c5ae456-cdd0-4536-baec-20b0008bbfa6)
 
+# Plot for test set
+![Screenshot 2024-09-14 155012](https://github.com/user-attachments/assets/af3f6b1b-7bfd-4f6d-b6d3-f09a9e5528c8)
 
+# MSE, MAE, RMSE values
+![Screenshot 2024-09-14 155028](https://github.com/user-attachments/assets/807200e9-440c-4453-af3f-285d292451b9)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
